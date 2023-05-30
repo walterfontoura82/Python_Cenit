@@ -5,6 +5,6 @@ num1=0
 num2=0
 
 num1=int(input("ingrese el primer numero: "))
-num2=int(input("ingrese el segundo numero: 3"))
+num2=int(input("ingrese el segundo numero: "))
 
 print("La suma de los dos numeros es: ", num2+num1)
