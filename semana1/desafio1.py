@@ -12,6 +12,9 @@
 
 
 nombre=""
-ventas={}
+ventas=0
+comision=0
 nombre = input(" Ingrese su nombre")
-ventas{[nombre]}=ventas{nombre= 0}
+ventas=float(input("ingrese las ventas del mes: "))
+comision= (ventas* 6) / 100
+print("las comisiiones de ",nombre + "son de : ", comision )
